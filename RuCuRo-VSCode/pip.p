@@ -1,3 +1,6 @@
+//需要安装的库
+
+
 pip install --upgrade pip
 pip install opencv-python
 pip3 install kociemba
