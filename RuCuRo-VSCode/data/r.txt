@@ -1,9 +1,0 @@
-yellow
-green
-green
-red
-red
-red
-red
-red
-red
